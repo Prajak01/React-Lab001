@@ -11,7 +11,7 @@ function App() {
     
       <div className="App">
         
-          <h1>เนื้อหาจาก App component</h1>
+          <h1>เนื้อหาจาก Prajak</h1>
           <Post/>
         {
           randomNumber < 0.5 ?
